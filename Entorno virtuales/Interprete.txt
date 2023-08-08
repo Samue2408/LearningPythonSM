@@ -1,0 +1,12 @@
+				ENTORNOS VIRTUALES
+Los entornos virtuales sirven para ejecutar programas que necesitan diferentes versiones de librerias
+los virtualenv se crean así: 
+	Nota: Instalar primero virtualenv = "pip install virtualenv"
+	1. Se crea la carpeta 1 para ejecutar el programa 1 = 		"mkdir *nombre de la carpeta*"							
+	2. Entramos en la carpeta = 					  "cd *nombre de la carpeta*"
+	3. Se escribe este comando para crear el entorno = "python -m venv *nombre de la carpeta*
+	4. Para entrar en el entorno virtual = "/*nombre de la carpeta*/Scripts/activate"
+	5. Para salir del entorno se escribe = "deactivate"
+
+
+en el entorno virtual de pipenv se sale con "exit"

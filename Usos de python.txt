@@ -1,0 +1,21 @@
+	Bank-end ----> python
+con Django o Flask
+
+	Interface de usuarios ----python
+con tkinter
+
+	Base de datos SQL ----> python
+con Psycopg o PyGreSQL 
+(Tambien se puede buscar "mysql connector python" o "mariadb python connector"(para tenerlo sin el oracle))
+(Si no se quieren las bases de datos sql orientadas a servidor por ejemplo mongodb buscar "pymongo")
+tambien pysqlite3 (La gran base de datos no conectada)
+
+	Calculo cientifico ----> python
+con numpy o scipy(para algoritmos de datos)
+
+
+------------------------------------------------------
+LO MAS UTILIZADO CON PYTHON
+
+	Libreria de analisis de datos ---> python
+Con panda

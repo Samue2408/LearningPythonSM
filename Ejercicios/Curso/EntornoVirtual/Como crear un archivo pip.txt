@@ -1,0 +1,2 @@
+CON EL COMANDO:
+	pip freeze > *nombre del archivo donde se va a guardar*

@@ -1,0 +1,6 @@
+Para crear un entorno virtual se ejecuta el comando
+-----> virtualenv -p python env
+
+Si alguna vez no se ven los cambios en el documento html usar los comandos
+ctrl + f5
+ctrl + shift + r

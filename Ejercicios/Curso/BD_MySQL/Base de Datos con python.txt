@@ -1,0 +1,6 @@
+	Base de Datos para conectar a Python
+SQL Server
+MySQL		se installa con "pip install mysql-connector-python"
+SQLite3		No necesita libreria porque el IDE de Python viene preparado para realizar conexiones sobre esta BD
+PostgreSQL
+Oracle
