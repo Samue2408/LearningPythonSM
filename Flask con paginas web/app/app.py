@@ -6,7 +6,7 @@ app = Flask(__name__) #Para inicializar la aplicacion
 
 @app.route('/')
 def index():
-    # return "¡Hola samuel!"
+    # return "¡Hola samuel!"d
     cursos = ['PHP', 'Python', 'Java', 'Kotlin', 'Dart', 'JavaScript']
     data = {
         'titulo':'Pagina web',
